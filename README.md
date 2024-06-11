@@ -9,6 +9,10 @@ It brings features like async image loading, memory/disk caching.
 
 The framework provide the Image View struct with different states, like using progress, placeholder, error placeholder.
 
+## Demo Project
+
+[WallpaperApp](https://github.com/sultanirkaliyev/WallpaperApp) is a demo project designed to demonstrate the functionality of the URLImage framework.
+
 ## Features
 
 - [x] Asynchronous image loading with support for progressive loading
