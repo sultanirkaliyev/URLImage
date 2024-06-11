@@ -47,7 +47,7 @@ URLImage is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'URLImage'
+pod 'URLImage', :git => 'https://github.com/sultanirkaliyev/URLImage.git', :branch=> 'master'
 ```
 
 ## Getting Started
