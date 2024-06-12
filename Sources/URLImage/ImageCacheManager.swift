@@ -23,7 +23,7 @@ final public class ImageCacheManager {
     private init() {}
     
     private var cacheCountLimit = 100
-    private var totalSpaceLimitInBytes = 1024 * 1024 * 20
+    private var totalSpaceLimitInBytes = 1024 * 1024 * 100
     
     lazy var imageCache: NSCache<NSString, UIImage> = {
         let cache = NSCache<NSString, UIImage>()
